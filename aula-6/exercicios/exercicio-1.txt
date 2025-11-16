@@ -1,0 +1,6 @@
+Comandos utilizados
+
+pwd: saber o diretório atual em que estamos
+ls: listar os arquivos e diretórios dentro do nosso diretório atual
+cd <DIRETORIO>: entrar em um determinado diretório
+cd .. (voltar ao diretório pai)

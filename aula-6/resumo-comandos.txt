@@ -1,0 +1,8 @@
+Resumo dos comandos apresentados
+
+pwd → mostra onde estamos.
+cd → muda de pasta.
+ls → lista os arquivos e diretórios da pasta
+mkdir → cria uma nova pasta.
+ni → cria um novo arquivo.
+cat → mostra o conteúdo de um arquivo.

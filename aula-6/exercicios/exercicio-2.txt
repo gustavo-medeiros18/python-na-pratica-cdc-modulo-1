@@ -1,0 +1,6 @@
+Comandos utilizados
+
+mkdir aulas-python: criar a pasta aulas-python
+cd aulas-python: entrar nessa nova pasta que foi criada
+ni teste.py: criar o arquivo teste.py
+python teste.py: executar o código em teste.py

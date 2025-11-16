@@ -1,0 +1,28 @@
+Exercício 1
+Peça ao usuário para digitar a temperatura
+atual em Celsius. Se for maior ou igual a 
+30, exiba "está muito quente!". Se estiver
+acima ou igual a 20 e abaixo de 30, exiba
+"está agradável!". Se estiver abaixo de 20
+exiba "está muito frio!".
+
+Exercício 2
+Peça ao usuário para digitar a idade de
+uma pessoa. Com base nessa idade, informe
+o valor da tarifa de transporte que terá
+que ser paga. Se a idade for menos de 6
+anos, tarifa será gratuita. Se for acima
+ou igual a 6 anos e abaixo de 18 anos,
+meia tarifa (5 reais). Se for a partir
+de 18 anos e abaixo de 60 anos, tarifa
+inteira (10 reais). Se for idoso
+(acima de 60 anos), tarifa gratuita.
+
+Exercício 3
+Peça ao usuário para digitar um username
+e uma senha. Considere que o usuário
+correto é "admin" e que a senha correta
+é python2025. Se as credenciais estiverem
+corretas, exiba "login bem sucedido!". Do
+contrário, exiba que as credenciais estão
+incorretas.

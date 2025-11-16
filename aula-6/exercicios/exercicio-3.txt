@@ -1,0 +1,5 @@
+Comandos utilizados:
+
+cd .. (voltar da pasta aulas-python para a pasta pai dela)
+ni estado.py: criar o arquivo estado.py
+python estado.py: executar o código contido em estado.py
