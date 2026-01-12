@@ -16,7 +16,7 @@ ou igual a 6 anos e abaixo de 18 anos,
 meia tarifa (5 reais). Se for a partir
 de 18 anos e abaixo de 60 anos, tarifa
 inteira (10 reais). Se for idoso
-(acima de 60 anos), tarifa gratuita.
+(a partir de 60 anos), tarifa gratuita.
 
 Exercício 3
 Peça ao usuário para digitar um username
